@@ -9,3 +9,4 @@ sentence-transformers
 PyPDF2
 groq
 matplotlib
+pypdf
